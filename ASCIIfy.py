@@ -50,4 +50,4 @@ def main():
     with open("ascii_image.txt", "w") as f:
         f.write(ascii_art)
 
-main()
+main()#zakaj je ta main tukaj
